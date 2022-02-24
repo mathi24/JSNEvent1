@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/drawable/bg_btn.xml" value="0.1555" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/drawable/card_rounded_corner.xml" value="0.13" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1555" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.147" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/drawable/top_rounded_corner.xml" value="0.1545" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_edit_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_log.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_log2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_phone.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/app_bar_default.xml" value="0.16" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/app_bar_menu.xml" value="0.152" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/bottom_sheet_reset_password.xml" value="0.176" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/content_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/edit_profile.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/frame_container.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/lvitem.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/nav_header_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/reset_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/rvitem.xml" value="0.2" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/layout/submit_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/menu/activity_main_drawer.xml" value="0.2421875" />
+        <entry key="..\:/Users/JSN-HP-Laptop/AndroidStudioProjects/JSNEvent/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
